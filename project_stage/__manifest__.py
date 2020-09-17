@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Project Stage',
-    'version': '13.0.1.2.0',
+    'version': '13.0.1.2.1',
     'category': 'Projects & Services',
     'sequence': 14,
     'summary': '',

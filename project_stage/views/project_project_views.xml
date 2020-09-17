@@ -7,7 +7,7 @@
         <field name="arch" type="xml">
             <sheet position="before">
                 <header>
-                    <field name="stage_id" widget="statusbar" clickable="True" options="{'fold_field': 'fold'}"/>
+                    <field name="stage_id" widget="statusbar" options="{'clickable': '1', 'fold_field': 'fold'}"/>
                 </header>
             </sheet>
         </field>
